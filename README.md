@@ -1,2 +1,3 @@
 # Making-boustrophedon
-This is an interesting project in CSC226 at Berea College.
+
+This is a project completed in a Software Design & Implement with Python Course at Berea College.
